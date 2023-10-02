@@ -10,11 +10,14 @@ import PageSeven from "./pages/PageSeven";
 import PageEight from "./pages/PageEight";
 import PageNine from "./pages/PageNine";
 import PageTen from "./pages/PageTen";
+import Home from "./pages/Home";
 
 function App() {
   return (
     <BrowserRouter>
       <Routes>
+        <Route path="/" element={<Home />} />
+
         <Route path="page/1" element={<PageOne />} />
         <Route path="page/2" element={<PageTwo />} />
         <Route path="page/3" element={<PageThree />} />

@@ -51,6 +51,9 @@ const Pagination = () => {
 
   return (
     <div className=" justify-end  flex items-center gap-1 bg-inherit pr-10  border shadow-2xl  rounded-xl w-full h-12 fixed bottom-0 ">
+      <button className=" mr-[860px] border rounded shadow-sm shadow-gray-600 bg-white p-2 px-3 text-xs">
+        Home
+      </button>
       <button
         onClick={handleBack}
         className=" border rounded shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
