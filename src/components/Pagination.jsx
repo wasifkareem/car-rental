@@ -52,85 +52,89 @@ const Pagination = () => {
     navigate("/");
   };
   return (
-    <div className=" justify-end  flex items-center gap-1 bg-inherit pr-10  border shadow-2xl  rounded-xl w-full h-12 fixed bottom-0 ">
-      <button
-        onClick={handleHome}
-        className=" mr-[860px] border rounded shadow-sm shadow-gray-600 bg-white p-2 px-3 text-xs"
-      >
-        Home
-      </button>
-      <button
-        onClick={handleBack}
-        className=" border rounded shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
-      >
-        <AiOutlineArrowLeft />
-      </button>
-      <button
-        onClick={handleOne}
-        className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
-      >
-        1
-      </button>
-      <button
-        onClick={handleTwo}
-        className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
-      >
-        2
-      </button>
-      <button
-        onClick={handleThree}
-        className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
-      >
-        3
-      </button>
-      <button
-        onClick={handleFour}
-        className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
-      >
-        4
-      </button>
-      <button
-        onClick={handleFive}
-        className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
-      >
-        5
-      </button>
-      <button
-        onClick={handleSix}
-        className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
-      >
-        6
-      </button>
-      <button
-        onClick={handleSeven}
-        className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
-      >
-        7
-      </button>
-      <button
-        onClick={handleEight}
-        className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
-      >
-        8
-      </button>
-      <button
-        onClick={handleNine}
-        className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
-      >
-        9
-      </button>
-      <button
-        onClick={handleTen}
-        className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
-      >
-        10
-      </button>
-      <button
-        onClick={handleNext}
-        className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
-      >
-        <AiOutlineArrowRight />
-      </button>
+    <div className=" justify-between  flex items-center  bg-inherit pr-10  border shadow-2xl  rounded-xl w-full h-12 fixed bottom-0 ">
+      <div>
+        <button
+          onClick={handleHome}
+          className=" ml-8 border rounded shadow-sm shadow-gray-600 bg-white p-2 px-3 text-xs"
+        >
+          Home
+        </button>
+      </div>
+      <div className=" flex gap-1">
+        <button
+          onClick={handleBack}
+          className=" border rounded shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
+        >
+          <AiOutlineArrowLeft />
+        </button>
+        <button
+          onClick={handleOne}
+          className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
+        >
+          1
+        </button>
+        <button
+          onClick={handleTwo}
+          className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
+        >
+          2
+        </button>
+        <button
+          onClick={handleThree}
+          className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
+        >
+          3
+        </button>
+        <button
+          onClick={handleFour}
+          className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
+        >
+          4
+        </button>
+        <button
+          onClick={handleFive}
+          className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
+        >
+          5
+        </button>
+        <button
+          onClick={handleSix}
+          className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
+        >
+          6
+        </button>
+        <button
+          onClick={handleSeven}
+          className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
+        >
+          7
+        </button>
+        <button
+          onClick={handleEight}
+          className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
+        >
+          8
+        </button>
+        <button
+          onClick={handleNine}
+          className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
+        >
+          9
+        </button>
+        <button
+          onClick={handleTen}
+          className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
+        >
+          10
+        </button>
+        <button
+          onClick={handleNext}
+          className=" border rounded  shadow-sm shadow-gray-600 bg-white p-1 px-2 text-xs"
+        >
+          <AiOutlineArrowRight />
+        </button>
+      </div>
     </div>
   );
 };
