@@ -73,7 +73,7 @@ export const carData = [
     name: "Tata Nexon",
     no_of_people: 5,
     fuel_type: "electric",
-    mileage: 312,
+    mileage: 31,
     rent: 3000,
     year: 2021,
     image_link:
@@ -123,7 +123,7 @@ export const carData = [
     name: "Tata Nexon",
     no_of_people: 5,
     fuel_type: "electric",
-    mileage: 312,
+    mileage: 31,
     rent: 3000,
     year: 2021,
     image_link:
@@ -253,7 +253,7 @@ export const carData = [
     name: "Tata Assure",
     no_of_people: 5,
     fuel_type: "electric",
-    mileage: 312,
+    mileage: 31,
     rent: 3000,
     year: 2021,
     image_link:
@@ -313,7 +313,7 @@ export const carData = [
     name: "Tata Safari",
     no_of_people: 5,
     fuel_type: "electric",
-    mileage: 312,
+    mileage: 31,
     rent: 3000,
     year: 2021,
     image_link:
@@ -383,7 +383,7 @@ export const carData = [
     name: "Tata Sumo",
     no_of_people: 5,
     fuel_type: "electric",
-    mileage: 312,
+    mileage: 31,
     rent: 3000,
     year: 2021,
     image_link:
@@ -433,7 +433,7 @@ export const carData = [
     name: "Tata Hamster",
     no_of_people: 5,
     fuel_type: "electric",
-    mileage: 312,
+    mileage: 31,
     rent: 3000,
     year: 2021,
     image_link:
@@ -473,7 +473,7 @@ export const carData = [
     name: "Maserati Safari",
     no_of_people: 5,
     fuel_type: "electric",
-    mileage: 312,
+    mileage: 31,
     rent: 3000,
     year: 2021,
     image_link:
