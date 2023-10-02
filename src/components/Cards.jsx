@@ -30,7 +30,7 @@ const Cards = ({ item }) => {
                 <p className=" text-gray-800 text-xs ">{item.fuel_type}</p>
               </div>
             </div>
-            <div className="flex justify-between mr-[94px] ">
+            <div className="flex justify-between mr-[108px] ">
               <div className="flex items-center gap-1">
                 <BsSpeedometer2 className=" text-cyan-600" />
 

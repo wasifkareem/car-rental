@@ -17,7 +17,6 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
-
         <Route path="page/1" element={<PageOne />} />
         <Route path="page/2" element={<PageTwo />} />
         <Route path="page/3" element={<PageThree />} />
