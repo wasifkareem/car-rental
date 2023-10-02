@@ -349,4 +349,194 @@ export const carData = [
     image_link:
       "https://images.91wheels.com/assets/b_images/main/models/profile/profile1661250946.jpg",
   },
+  {
+    name: "Nissan Balzer",
+    no_of_people: 4,
+    fuel_type: "petrol",
+    mileage: 19.6,
+    rent: 1400,
+    year: 2019,
+    image_link:
+      "https://stimg.cardekho.com/images/carexteriorimages/630x420/Nissan/Juke/9403/1666102694886/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+  },
+  {
+    name: "Maruti Rapid",
+    no_of_people: 5,
+    fuel_type: "petrol",
+    mileage: 21.2,
+    rent: 1200,
+    year: 2020,
+    image_link:
+      "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Ertiga-Tour/9617/1675861474531/front-left-side-47.jpg?impolicy=resize&imwidth=480",
+  },
+  {
+    name: "Mahindra Truck",
+    no_of_people: 4,
+    fuel_type: "diesel",
+    mileage: 15.2,
+    rent: 2500,
+    year: 2021,
+    image_link:
+      "https://images.91wheels.com/assets/b_images/main/models/profile/profile1661250946.jpg",
+  },
+  {
+    name: "Tata Sumo",
+    no_of_people: 5,
+    fuel_type: "electric",
+    mileage: 312,
+    rent: 3000,
+    year: 2021,
+    image_link:
+      "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/GLC-Coupe-2023/9730/1678950667198/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+  },
+  {
+    name: "Tata Nano",
+    no_of_people: 5,
+    fuel_type: "petrol",
+    mileage: 16.8,
+    rent: 2200,
+    year: 2020,
+    image_link:
+      "https://imgcdn.zigwheels.ph/medium/gallery/exterior/22/2676/mercedes-benz-g-class-2020-59223.jpg",
+  },
+  {
+    name: "Kia Nitro",
+    no_of_people: 5,
+    fuel_type: "petrol",
+    mileage: 16.5,
+    rent: 2300,
+    year: 2020,
+    image_link:
+      "https://i.insider.com/594bda17a3630f1a008b495f?width=1000&format=jpeg&auto=webp",
+  },
+  {
+    name: "Maruti Thunder",
+    no_of_people: 5,
+    fuel_type: "petrol",
+    mileage: 21.2,
+    rent: 1200,
+    year: 2020,
+    image_link:
+      "https://d2m3nfprmhqjvd.cloudfront.net/blog/20230316193641/Spinny-Assured-Maruti-Swift-1160x653.webp",
+  },
+  {
+    name: "Mahindra Santro",
+    no_of_people: 4,
+    fuel_type: "diesel",
+    mileage: 15.2,
+    rent: 2500,
+    year: 2021,
+    image_link:
+      "https://images.91wheels.com//assets/b_images/main/models/profile/profile1640331101.jpg?w=750&q=60",
+  },
+  {
+    name: "Tata Hamster",
+    no_of_people: 5,
+    fuel_type: "electric",
+    mileage: 312,
+    rent: 3000,
+    year: 2021,
+    image_link:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfo1pPwoaVdpHZL1aivPY0sHKHwO42HklG1Q&usqp=CAU",
+  },
+  {
+    name: "Hyundai Safari",
+    no_of_people: 5,
+    fuel_type: "petrol",
+    mileage: 16.8,
+    rent: 2200,
+    year: 2020,
+    image_link:
+      "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/99-best-luxury-cars-2023-bmw-i7-lead.jpg",
+  },
+  {
+    name: "Santro Diffusion",
+    no_of_people: 5,
+    fuel_type: "petrol",
+    mileage: 21.2,
+    rent: 1200,
+    year: 2020,
+    image_link:
+      "https://imgd-ct.aeplcdn.com/1280x720/n/cw/ec/115823/2022-ertiga-right-front-three-quarter-2.jpeg?isig=0&q=80",
+  },
+  {
+    name: "Audi Wheels",
+    no_of_people: 4,
+    fuel_type: "diesel",
+    mileage: 15.2,
+    rent: 2500,
+    year: 2021,
+    image_link:
+      "https://www.drivespark.com/car-image/320x225x35/car/x30634657-bmw_7_series.jpg.pagespeed.ic.JucYUkskYR.jpg",
+  },
+  {
+    name: "Maserati Safari",
+    no_of_people: 5,
+    fuel_type: "electric",
+    mileage: 312,
+    rent: 3000,
+    year: 2021,
+    image_link:
+      "https://images.wapcar.my/file1/7182053bb6314e0d9036b9bb67e41c2f_216x144.png",
+  },
+  {
+    name: "Hyundai Swifter",
+    no_of_people: 5,
+    fuel_type: "petrol",
+    mileage: 16.8,
+    rent: 2200,
+    year: 2020,
+    image_link:
+      "https://qph.cf2.quoracdn.net/main-qimg-1903512c10d6f1519a2d95975c891c1a-lq",
+  },
+  {
+    name: "Kia Sumo",
+    no_of_people: 5,
+    fuel_type: "petrol",
+    mileage: 16.5,
+    rent: 2300,
+    year: 2020,
+    image_link:
+      "https://feeds.abplive.com/onecms/images/uploaded-images/2021/05/26/1d22e6410dcb6ce9c189a2aa4117d91b_original.jpg",
+  },
+  {
+    name: "Mercedes-Benz A70",
+    no_of_people: 5,
+    fuel_type: "petrol",
+    mileage: 21,
+    rent: 5000,
+    year: 2023,
+    image_link:
+      "https://images.91wheels.com/assets/b_images/main/models/profile/profile1661250946.jpg",
+  },
+  {
+    name: "Nissan Ramster",
+    no_of_people: 4,
+    fuel_type: "petrol",
+    mileage: 19.6,
+    rent: 1400,
+    year: 2019,
+    image_link:
+      "https://stimg.cardekho.com/images/carexteriorimages/630x420/Nissan/Juke/9403/1666102694886/front-left-side-47.jpg?imwidth=420&impolicy=resize",
+  },
+  {
+    name: "Maruti Corolla",
+    no_of_people: 5,
+    fuel_type: "petrol",
+    mileage: 21.2,
+    rent: 1200,
+    year: 2020,
+    image_link:
+      "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Ertiga-Tour/9617/1675861474531/front-left-side-47.jpg?impolicy=resize&imwidth=480",
+  },
+  {
+    name: "Mahindra mini",
+    no_of_people: 4,
+    fuel_type: "diesel",
+    mileage: 15.2,
+    rent: 2500,
+    year: 2021,
+    image_link:
+      "https://images.91wheels.com/assets/b_images/main/models/profile/profile1661250946.jpg",
+  },
 ];
