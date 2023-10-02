@@ -1,5 +1,5 @@
 import React from "react";
-import carpic from "../pic/carpic.png";
+import carpic from "../pic/carimg.png";
 import Navbar from "../components/Navbar";
 import { useNavigate } from "react-router-dom";
 
