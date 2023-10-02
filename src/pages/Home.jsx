@@ -10,19 +10,26 @@ const Home = () => {
     navigate("/page/1");
   };
   return (
-    <div className=" flex justify-center flex-col text-center">
-      <Navbar />
+    <div className=" flex justify-center  flex-col text-center h-[100vh] bg-[#edf0f6] ">
+      <section className=" justify-end flex items-center right-0 bg-[#edf0f6] mx-5 h-14 rounded-xl shadow-lg">
+        <button
+          onClick={handleExplore}
+          className="flex mr-6 border  rounded shadow-sm shadow-gray-600 font-semibold bg-inherit hover:bg-white duration-300 p-2 px-3 text-xs"
+        >
+          Collections
+        </button>
+      </section>
       <p className="font-extrabold text-transparent text-5xl my-6 bg-clip-text bg-gradient-to-r from-red-400 to-gray-600 ">
         Welcome to Stazi Technologies
       </p>
       <p className=" text-xl mb-2">Revolutionizing car rental space in India</p>
       <div className=" flex justify-center ">
-        <img className=" bg-white w-1/2" src={carpic} alt="" />
+        <img className=" bg-inherit w-1/2" src={carpic} alt="" />
       </div>
       <div>
         <button
           onClick={handleExplore}
-          className=" border-2 border-l-black border-b-black border-t-gray-600 border-r-gray-600 px-32  shadow shadow-black text-2xl py-5 text-black font-semibold  w-fit"
+          className=" border-2 border-l-black border-b-black border-t-gray-600 border-r-gray-600 px-32  shadow mb-4 shadow-black text-2xl py-5 text-black font-semibold  w-fit"
         >
           Explore Now
         </button>
